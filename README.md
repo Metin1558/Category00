@@ -54,7 +54,7 @@ Independent of, and built from a clean copy of, this author's other organoid-oi 
 
 ## Data, code
 
-github.com/Metin1558/organoid-oi (or standalone repo, per your GitHub setup)
+https://github.com/Metin1558/Category00
 
 ---
 
